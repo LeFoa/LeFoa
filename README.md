@@ -7,6 +7,7 @@
 ## 💡 핵심 역량 (Core Competencies)
 
 * **Java, Spring, SQL, ERD 설계, 도메인 모델링, JPA**
+* **AWS EC2, S3, EventBridge, SNS, Lambda 등에 대한 운영 경험**
 * **레거시 시스템 성능 개선, 코드 리팩토링, 아키텍처 설계 이해**
 * 사용자 중심 개발: 현직 간호사와 소통하며, 품질 관리·일정 조율·요구사항 반영
 
